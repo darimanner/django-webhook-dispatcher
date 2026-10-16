@@ -3,6 +3,7 @@ name = "django-webhook-dispatcher"
 version = "0.1.0"
 description = "Reliable outgoing webhook delivery service built on Django and Celery"
 readme = "README.md"
+authors = [{ name = "Kostiantyn Durlov", email = "konstantin_durlov.dev@protonmail.com" }]
 requires-python = ">=3.13.13"
 dependencies = [
     "celery>=5.6.3",
